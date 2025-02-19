@@ -1,3 +1,3 @@
 # OD03
-Quicksort. Recursion. Selection sort. Insertion sort.
+Bubble sort. Quicksort. Recursion. Selection sort. Insertion sort.
  
